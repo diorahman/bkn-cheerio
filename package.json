@@ -1,0 +1,28 @@
+{
+  "name": "bkn-cheerio",
+  "version": "0.0.1",
+  "description": "bkn scrapper using cheerio",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "keywords": [
+    "bkn",
+    "scrapper",
+    "nip",
+    "indonesia",
+    "pegawai",
+    "negeri",
+    "sipil"
+  ],
+  "author": "Dhi Aurrahman <diorahman@rockybars.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.15.0",
+    "superagent": "^0.18.0"
+  },
+  "devDependencies": {
+    "mocha": "^1.18.2",
+    "should": "^3.3.1"
+  }
+}
